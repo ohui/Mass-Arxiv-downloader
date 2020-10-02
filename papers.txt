@@ -1,0 +1,10 @@
+“Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer
+    Akhilesh Sudhakar, Bhargav Upadhyay and Arjun Maheswaran
+    (Male, Bachelor) and (Female, Ph.D) have different connotations : Parallelly Annotated Stylistic Language Dataset with Multiple Personas
+    Dongyeop Kang and Eduard Hovy
+    75 Languages, 1 Model: Parsing Universal Dependencies Universally
+    Dan Kondratyuk and Milan Straka
+    A Bayesian Approach for Sequence Tagging with Crowds
+    Edwin D. Simpson and Iryna Gurevych
+    A Benchmark Dataset for Learning to Intervene in Online Hate Speech
+    Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding and William Yang Wang
