@@ -1,7 +1,7 @@
 # Mass-Arxiv-downloader
 Given a list of titles and authors, attempt to download the pdf if it's on arxiv
 
-This uses multiprocess mp library to download more efficiently. 
+This uses Python multiprocess library to download more efficiently. 
 
 File expects a `papers.txt` to read from and a `/pdf/` folder to write to. 
 
